@@ -1,21 +1,11 @@
-# Core ML
-tensorflow==2.20.0
-tensorboard==2.20.0
-
-# Data & Math
-numpy>=1.26.0,<2.1.0
-pandas>=2.1.0
-scikit-learn>=1.4.0
-
-# Keras ↔ sklearn bridge
-scikeras>=0.13.0
-
-# Visualization
-matplotlib>=3.8.0
+tensorflow
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+protobuf==3.20.3
 altair==4.2.2
-
-# App framework
-streamlit>=1.31.0
-
-# Protobuf (required by TensorFlow 2.20)
-protobuf>=5.28.0
+keras
