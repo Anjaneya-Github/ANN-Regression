@@ -8,3 +8,4 @@ matplotlib
 altair
 streamlit
 protobuf==3.19.6
+altair==4.2.2
