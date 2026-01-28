@@ -1,0 +1,10 @@
+tensorflow
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+protobuf==3.20.3
+altair==4.2.2
