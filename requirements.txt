@@ -6,6 +6,7 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-protobuf==3.20.3
+protobuf>=5.28.0
 altair==4.2.2
 keras
+
