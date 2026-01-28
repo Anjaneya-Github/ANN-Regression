@@ -1,6 +1,6 @@
-tensorflow==2.10.1
-tensorboard==2.10.1
-numpy==1.23.5
+tensorflow
+tensorboard
+numpy
 pandas
 scikit-learn
 scikeras
@@ -8,4 +8,5 @@ matplotlib
 altair==4.2.2
 streamlit
 protobuf==3.19.6
+
 
