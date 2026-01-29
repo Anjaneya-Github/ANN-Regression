@@ -1,12 +1,13 @@
 tensorflow
-tensorboard
-numpy
-pandas
+pandas 
+numpy 
 scikit-learn
-scikeras
+tensorboard
 matplotlib
-altair==4.2.2
 streamlit
-protobuf==3.19.6
+scikeras
+protobuf==3.20.3
+altair==4.2.2
+
 
 
